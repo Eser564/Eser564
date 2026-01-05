@@ -25,8 +25,6 @@ Coding enthusiast who found a perfect blend in Software Development and Cybersec
 
 ### Badges
 
-<a href="https://github.com/Eser564" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eser564&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Eser564/fantaburger_delivery_tycoon_py" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eser564&repo=fantaburger_delivery_tycoon_py&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
